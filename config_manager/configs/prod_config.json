@@ -1,0 +1,10 @@
+{
+    "apikey": "ksdjfkljasklfdjlkasjfkld",
+    "database": {
+        "db_host": "prod-rds.mydomain.com",
+        "db_password": "password",
+        "db_user": "sa",
+        "dbname": "CentralDB"
+    },
+    "env": "dev"
+}

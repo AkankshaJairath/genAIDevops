@@ -1,0 +1,8 @@
+apikey: ksdjfkljasklfdjlkasjfkld
+database:
+  db_host: staging-rds.mydomain.com
+db_host: myrds1.amazon.aws.com
+db_password: password
+db_user: sa
+dbname: CentralDB
+env: dev

@@ -1,0 +1,7 @@
+apikey: ksdjfkljasklfdjlkasjfkld
+database:
+  db_host: dev-rds.mydomain.com
+  db_password: password
+  db_user: Admin
+  dbname: CentralDB
+env: dev
