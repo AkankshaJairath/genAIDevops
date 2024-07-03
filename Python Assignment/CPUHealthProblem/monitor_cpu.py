@@ -21,7 +21,7 @@ def monitor_cpu(threshold):
         sys.exit(1)
 
 def main():
-    threshold = 5  # Set the CPU usage threshold
+    threshold = 80  # Set the CPU usage threshold
     print(f"Monitoring CPU usage...")
     monitor_cpu(threshold)
 
