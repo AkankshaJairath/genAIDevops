@@ -1,4 +1,4 @@
-def password_strength(password):
+def check_password_strength(password):
 
     #check minimum Lenght
     if len(password) < 8:
@@ -33,7 +33,7 @@ def password_strength(password):
 def main():
          password= input("Enter the Password: ")
 
-         if password_strength(password):
+         if check_password_strength(password):
              print("Password is strong")
 
          else:
